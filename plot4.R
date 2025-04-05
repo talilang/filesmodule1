@@ -1,5 +1,5 @@
 #set directory
-setwd("C:/Users/Ariella's laptop/OneDrive - weizmann.ac.il/MSc weizmann/Coursera exploratory data analysis")
+setwd("C:/Users/Tali's laptop/OneDrive - weizmann.ac.il/MSc weizmann/Coursera exploratory data analysis")
 HH = "household_power_consumption.txt"
 
 #read and prep data
